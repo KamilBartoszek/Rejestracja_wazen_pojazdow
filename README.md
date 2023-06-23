@@ -5,7 +5,9 @@
 ## General info
 This project is truck weighing app
 
-pass: admin ; admin1234
+Manual in Polish:     /Release/Config/Instrukcja.pdf
+
+Login pass: admin ; admin1234
 
 ![JPG](./O_W.jpg) 
 	
