@@ -1,0 +1,1 @@
+C:\Repos\Rejestracja_wazen_pojazdow\MobilWag\bin\Release\Config\baza.sqlite
